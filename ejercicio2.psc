@@ -1,4 +1,3 @@
-Ejercicio 2:
 
 Algoritmo Ejercicio2
 
